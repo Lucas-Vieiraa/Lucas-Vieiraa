@@ -26,13 +26,15 @@
 ## 📊 Estatísticas e troféus do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Vieiraa&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=86400" alt="Lucas-Vieiraa's GitHub Stats" width="46%" />
-  <img src="https://streak-stats.demolab.com/?user=Lucas-Vieiraa&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="Lucas-Vieiraa's GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Lucas-Vieiraa&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="Lucas-Vieiraa's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img width="70%" src="https://github-profile-trophy.vercel.app/?username=Lucas-Vieiraa&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Luciano Lucas Vieira Da Silva's GitHub Trophies" />
 </p>
 <br>
-
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Vieiraa&theme=gruvbox&radius=10" alt="Lucas-Vieiraa's Activity Graph" />
+</p>
 
 ## 🛠️ Linguagens e Ferramentas
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
