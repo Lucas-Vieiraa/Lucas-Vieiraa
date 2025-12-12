@@ -25,42 +25,44 @@
 
 ## 📊 Estatísticas e troféus do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Vieiraa&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=86400" alt="Lucas-Vieiraa's GitHub Stats" width="46%" />
-<img src="https://streak-stats.demolab.com/?user=Lucas-Vieiraa&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="Lucas-Vieiraa's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucas-Vieiraa&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" width="46%" />
 </p>
+
 <p align="center">
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=Lucas-Vieiraa&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Luciano Lucas Vieira Da Silva's GitHub Trophies" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Vieiraa&theme=gruvbox&radius=10" />
 </p>
-<br>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Vieiraa&theme=gruvbox&radius=10" alt="Lucas-Vieiraa's Activity Graph" />
-</p>
+
+
 
 ## 🛠️ Linguagens e Ferramentas
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Vieiraa&layout=compact&theme=gruvbox&hide_border=true&langs_count=10&cache_seconds=86400" alt="Principais linguagens" />
-</p>
 
 ## Minhas Contribuições Mais Importantes
 
-<p align = "center"  
-<a href="https://github.com/Lucas-Vieiraa/academia-digital">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Vieiraa&repo=academia-digital&bg_color=000&border_color=8B0000&show_icons=true&icon_color=8B0000&title_color=8B0000&text_color=FFF" alt="academia-digital" />
-</a>
-<a href="https://github.com/Lucas-Vieiraa/Cadastro-Unico-Agente-Cutural">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Vieiraa&repo=Cadastro-Unico-Agente-Cutural&bg_color=000&border_color=8B0000&show_icons=true&icon_color=8B0000&title_color=8B0000&text_color=FFF" alt="Cadastro-Unico-Agente-Cutural" width="37%""/>
-</a>
-<a href="https://github.com/Lucas-Vieiraa/Curso-Ebac-Tarefas-Lucas-Vieira">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Vieiraa&repo=Curso-Ebac-Tarefas-Lucas-Vieira&bg_color=000&border_color=8B0000&show_icons=true&icon_color=8B0000&title_color=8B0000&text_color=FFF" alt="Curso-Ebac-Tarefas-Lucas-Vieira"  width="39%""/>
-</a>
-<a  href="https://github.com/Lucas-Vieiraa/Clinica-Feliz-Infancia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Vieiraa&repo=Clinica-Feliz-Infancia&bg_color=000&border_color=8B0000&show_icons=true&icon_color=8B0000&title_color=8B0000&text_color=FFF" alt="Clinica-Feliz-Infancia" width="38%""/>
-</a>
+<p align="center">
+
+  <a href="https://github.com/Lucas-Vieiraa/academia-digital">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lucas-Vieiraa&repo=academia-digital&bg_color=000&border_color=8B0000&show_icons=true&icon_color=8B0000&title_color=8B0000&text_color=FFF" alt="academia-digital" width="40%"/>
+  </a>
+
+  <a href="https://github.com/Lucas-Vieiraa/Cadastro-Unico-Agente-Cutural">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lucas-Vieiraa&repo=Cadastro-Unico-Agente-Cutural&bg_color=000&border_color=8B0000&show_icons=true&icon_color=8B0000&title_color=8B0000&text_color=FFF" alt="Cadastro-Unico-Agente-Cutural" width="40%"/>
+  </a>
+
+  <a href="https://github.com/Lucas-Vieiraa/Curso-Ebac-Tarefas-Lucas-Vieira">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lucas-Vieiraa&repo=Curso-Ebac-Tarefas-Lucas-Vieira&bg_color=000&border_color=8B0000&show_icons=true&icon_color=8B0000&title_color=8B0000&text_color=FFF" alt="Curso-Ebac-Tarefas-Lucas-Vieira" width="40%"/>
+  </a>
+
+  <a href="https://github.com/Lucas-Vieiraa/Clinica-Feliz-Infancia">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lucas-Vieiraa&repo=Clinica-Feliz-Infancia&bg_color=000&border_color=8B0000&show_icons=true&icon_color=8B0000&title_color=8B0000&text_color=FFF" alt="Clinica-Feliz-Infancia" width="40%"/>
+  </a>
+
 </p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
 
 
